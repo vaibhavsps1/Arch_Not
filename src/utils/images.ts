@@ -1,0 +1,9 @@
+export const hoc1 = require('../assets/code/hoc1.png');
+export const hoc2 = require('../assets/code/hoc2.png');
+export const hoc3 = require('../assets/code/hoc3.png');
+export const hoc4 = require('../assets/code/hoc4.png');
+export const hoc5 = require('../assets/code/hoc5.png');
+export const hoc6 = require('../assets/code/hoc6.png');
+export const hoc7 = require('../assets/code/hoc7.png');
+export const hoc8 = require('../assets/code/hoc8.png');
+export const hoc9 = require('../assets/code/hoc9.png');
